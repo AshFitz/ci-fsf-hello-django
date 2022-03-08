@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-4=hrhk83b!b$fi3*wq1_2tqv^kgm-9%m4&pek_&0@^-p6qe!zl
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://git.heroku.com/ash-django-todo-app.git']
 
 
 # Application definition
